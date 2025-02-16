@@ -1,0 +1,1 @@
+This repository demonstrates the solution to a Data Engineering challenge that simulates and processes real-time user interaction data, ingests it into a NoSQL database with aggregations, and visualizes the results using a simple dashboard.
